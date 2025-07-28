@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 33.38 33.14">
+  <defs>
+    <style>
+      .pos-cls-1 {
+        fill: url(#Sfumatura_senza_nome_212);
+      }
+
+      .pos-cls-2 {
+        fill: #1d1d1b;
+      }
+    </style>
+    <radialGradient id="Sfumatura_senza_nome_212" data-name="Sfumatura senza nome 212" cx="16.69" cy="16.62" fx="16.69" fy="16.62" r="16.03" gradientUnits="userSpaceOnUse">
+      <stop offset=".42" stop-color="#50bfd1"/>
+      <stop offset="1" stop-color="#bbe1ea"/>
+    </radialGradient>
+  </defs>
+  <g id="Livello_2" data-name="Livello 2">
+    <circle class="pos-cls-1" cx="16.69" cy="16.62" r="16.03"/>
+  </g>
+  <g id="Livello_1" data-name="Livello 1">
+    <path class="pos-cls-2" d="M16.46.91C9.2.91,3.29,6.82,3.29,14.08c0,6.51,9.38,14.94,12.25,17.37l.92.78.92-.78c2.87-2.43,12.25-10.87,12.25-17.37,0-7.26-5.91-13.17-13.17-13.17ZM16.46,10.05c2.16,0,3.91,1.76,3.91,3.91s-1.76,3.91-3.91,3.91-3.91-1.76-3.91-3.91,1.76-3.91,3.91-3.91Z"/>
+  </g>
+</svg>
