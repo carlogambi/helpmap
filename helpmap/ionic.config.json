@@ -1,7 +1,0 @@
-{
-  "name": "helpmap",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
