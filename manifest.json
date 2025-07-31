@@ -16,7 +16,6 @@
     "client_mode": "focus-existing"
   },
   "icons": [
-   
     {
       "src": "assets/smicons/icon-144x144.png",
       "sizes": "144x144",
@@ -33,7 +32,7 @@
   "screenshots": [
     {
       "src": "assets/screenshot.png",
-      "sizes": "1617x1012",
+      "sizes": "373x803",
       "type": "image/png"
     }
   ],
@@ -43,28 +42,6 @@
     {
       "name": "Help Map",
       "url": "/index.html?from=homescreen",
-      "icons": [
-        {
-          "src": "assets/icons/48x48.png",
-          "sizes": "48x48"
-        }
-      ]
-    }
-  ],
-  "widgets": [
-    {
-      "name": "Starter Widget",
-      "tag": "starterWidget",
-      "ms_ac_template": "widget/ac.json",
-      "data": "widget/data.json",
-      "description": "A simple widget example from pwa-starter.",
-      "screenshots": [
-        {
-          "src": "assets/screenshots/widget-screen.png",
-          "sizes": "500x500",
-          "label": "Widget screenshot"
-        }
-      ],
       "icons": [
         {
           "src": "assets/icons/48x48.png",
