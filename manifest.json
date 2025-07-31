@@ -185,13 +185,13 @@
       "src": "assets/smicons/8.3__iPad_Mini_portrait.png"
     },
     {
-      "src": "pwa/assets/smicons/icon-144x144.png",
+      "src": "assets/smicons/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "pwa/assets/smicons/icon-144x144.png",
+      "src": "assets/smicons/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
