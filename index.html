@@ -535,6 +535,7 @@
     <button id="install_pwa_button">install</button>
   </section>
   <script>
+    console.log("HelpMap ");
     if ("serviceWorker" in navigator) {
       // register service worker
       navigator.serviceWorker.register("service-worker.js");
@@ -546,6 +547,7 @@
     const installButton = document.querySelector("#install_pwa_button");
 
     window.addEventListener("beforeinstallprompt", (event) => {
+      debugger
       alert("App can be installed");
       event.preventDefault();
       installPrompt = event;
